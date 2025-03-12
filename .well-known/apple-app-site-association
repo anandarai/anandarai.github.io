@@ -2,7 +2,7 @@
   "applinks": {
       "details": [
            {
-             "appIDs": [ { "5JV6TLE9SZ.np.com.nepalipatro", "paths": ["*"] } ]
+             "appIDs": [ "5JV6TLE9SZ.np.com.nepalipatro" ]
            }
        ]
    }
